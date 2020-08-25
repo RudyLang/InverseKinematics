@@ -13,7 +13,7 @@ public:
 
 private:
 	// Helper Functions
-	//void ProcessInput();
+	void ProcessInput();
 	//void UpdateGame();
 	//void GenerateOutput();
 
